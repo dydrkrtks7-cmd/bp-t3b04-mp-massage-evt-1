@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangam-massage-note.maphoshirts.space/sitemap.xml
